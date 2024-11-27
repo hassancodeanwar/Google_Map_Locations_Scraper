@@ -4,7 +4,7 @@
 
 This Python script is designed to scrape location data for a specific category of places within a given U.S. state using Google Maps. The scraper collects comprehensive information about each location, including name, address, rating, number of reviews, and operating hours.
 
-https://github.com/hassancodeanwar/Google_Map_Locations_Scraper/blob/main/Google%20Maps%20Locations%20Scraper.png?raw=true
+<img>(https://github.com/hassancodeanwar/Google_Map_Locations_Scraper/blob/main/Google%20Maps%20Locations%20Scraper.png?raw=true)
 
 ## Dependencies
 
